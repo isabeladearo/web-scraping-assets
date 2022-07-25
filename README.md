@@ -1,4 +1,4 @@
-🔸 A aplicação tem um único objetivo, extrair dados da web sobre o mercado de ações, gerando dois arquivo json de forma automática.
+🔸 A aplicação tem o objetivo de extrair dados da web sobre o mercado de ações, gerando dois arquivo json de forma automática.
 ##
 ## Rodando localmente
 👉🏻 **Certifique de ter o Node instalado em sua máquina. Na aplicação, a versão `16.15.1` foi utilizada.**
